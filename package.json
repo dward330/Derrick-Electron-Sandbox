@@ -1,0 +1,22 @@
+{
+  "name": "derrick-first-electron-app",
+  "version": "1.0.0",
+  "description": "Derrick's First Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "DerrickFirstElectron"
+  },
+  "keywords": [
+    "Derrick",
+    "Electron"
+  ],
+  "author": "Derrick Kyle Ward",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
