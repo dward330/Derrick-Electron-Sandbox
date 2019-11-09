@@ -17,6 +17,7 @@
   "author": "Derrick Kyle Ward",
   "license": "UNLICENSED",
   "devDependencies": {
-    "electron": "^7.1.1"
+    "electron": "^7.1.1",
+    "electron-packager": "^14.1.0"
   }
 }
